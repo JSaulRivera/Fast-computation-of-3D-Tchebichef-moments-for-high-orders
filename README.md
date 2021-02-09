@@ -4,4 +4,4 @@ The content of this repository is related to the paper that helps speed up 3D hi
 
 Tchebycheff polynomials
 
- 
+ The source codes of the project are described in the paper "Fast computation of 3D Tchebichef moments for higher-orders"  the codes will be published after the paper is published.
